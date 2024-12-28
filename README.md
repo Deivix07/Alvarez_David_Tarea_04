@@ -21,9 +21,9 @@ Para la versión ejecutable (`.exe`):
 ***Opción 1***: Ejecutar desde el código fuente
 - Clona el **repositorio**.
 - Abre el código en tu editor de texto o IDE favorito.
-- Ejecuta el juego con **Python**.
+- Ejecuta la calculadora con **Python**.
 
 ***Opción 2***: Descargar el archivo ejecutable ⬇️
 - Dirígete a la sección **dist** del proyecto.
 - Descarga el archivo **calculadora.exe** disponible.
-- Haz doble clic sobre el archivo **calculadora.exe** para iniciar el juego.
+- Haz doble clic sobre el archivo **calculadora.exe** para iniciar la app.
