@@ -5,7 +5,7 @@ Una aplicación de calculadora básica desarrollada en python, usando su librer�
 ## Vista Previa 👀
 
 <div align="center">
-    <img src="view/print01.jp.jpg" width="202">
+    <img src="view/print01.jpg" width="202">
 </div>
 
 ## Requisitos 📝
